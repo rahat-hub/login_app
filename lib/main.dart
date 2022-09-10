@@ -92,7 +92,7 @@ class HomePage extends StatelessWidget {
                     child: const Text(
                       'Signup',
                       style: TextStyle(
-                        color: Colors.white,
+                        color: Colors.amber,
                         fontWeight: FontWeight.w600,
                         fontSize: 18,
                       ),
